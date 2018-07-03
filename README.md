@@ -1,2 +1,4 @@
-# InksAndBlots
-: A web technology project for easy access to e-books in PDF format. Technologies used are html, css , bootstrap, My SQLite  and Php..
+# ebook
+in connections.php change the user and password according to your system,
+run sql given in database.sql,
+starting page is index.php
