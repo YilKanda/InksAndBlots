@@ -1,7 +1,5 @@
 # ebook
-in connections.php change the user and password according to your system,
-run sql given in database.sql,
-starting page is index.php
+ A web technology project for easy access to e-books in PDF format. Technologies used are html, css , bootstrap, My SQLite and Php.
 
 
 <img src="https://user-images.githubusercontent.com/29801319/44618402-a44cfa80-a892-11e8-87d5-01f68fbb6050.PNG" width="600" heigth="800" align="left">
